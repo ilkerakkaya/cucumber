@@ -1,5 +1,5 @@
 
-@flowersearch
+
 Feature: US1000 Google search test
   Background: User is on the google page
     Given user is on the google page
@@ -12,7 +12,7 @@ Feature: US1000 Google search test
   Scenario: TC03 Verify flower search
     And user search for "flower"
     Then verify the result has "flower"
-
+@test1
   Scenario: TC04 Verify bmw search
     And user search for "bmw"
-    Then verify the result has "bmw
+    Then verify the result has "bmw"

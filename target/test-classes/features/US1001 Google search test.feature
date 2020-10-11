@@ -1,3 +1,4 @@
+@Hooks
 Feature: US1001_user_should_add_data
   Scenario: TC01_Testing_the_data_tables_web_page
     Given user is on the datatables page
