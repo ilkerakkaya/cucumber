@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="20.182">
-<testcase classname="US1001_user_should_add_data" name="TC01_Testing_the_data_tables_web_page" time="19.102">
-<system-out><![CDATA[Given user is on the datatables page........................................passed
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="23.608">
+    <testcase classname="US1001_user_should_add_data" name="TC01_Testing_the_data_tables_web_page" time="23.116">
+        <system-out><![CDATA[Given user is on the datatables page........................................passed
 And user clicks on the new button...........................................passed
 When user enters the firstname..............................................passed
 When user enters the lastname...............................................passed
@@ -14,5 +14,5 @@ And user clicks on the create button........................................pass
 And search for the first name...............................................passed
 Then verify the name fields contains first name.............................passed
 ]]></system-out>
-</testcase>
+    </testcase>
 </testsuite>

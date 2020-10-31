@@ -5,7 +5,7 @@ formatter.feature({
   "keyword": "Feature",
   "tags": [
     {
-      "name": "@Hooks"
+      "name": "@datatable"
     }
   ]
 });
@@ -15,7 +15,7 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@Hooks"
+      "name": "@datatable"
     }
   ]
 });
